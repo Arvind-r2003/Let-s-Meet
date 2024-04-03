@@ -1,5 +1,5 @@
-# TeamUp
-TeamUp - A MERN Stack Chat and Video Conferencing Application. The application is built using WebRTC Library. Socket.io is used to establish real-time communication between the users. In addition to the MongoDB database, the app uses Redis-server DB as well, which is responsible for the storage of the meeting sessions data.
+# Let's Meet
+Let's Meet - A MERN Stack Chat and Video Conferencing Application. The application is built using WebRTC Library. Socket.io is used to establish real-time communication between the users. In addition to the MongoDB database, the app uses Redis-server DB as well, which is responsible for the storage of the meeting sessions data.
 
 ## Tech Stack 💻
 
